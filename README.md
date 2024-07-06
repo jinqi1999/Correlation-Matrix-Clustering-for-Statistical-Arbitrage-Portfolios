@@ -1,6 +1,6 @@
 # Correlation-Matrix-Clustering-for-Statistical-Arbitrage-Portfolios
 
-This repo contains the implementation of clustering algorithms used in the following paper:
+This repo contains the implementation of clustering algorithms used in our paper:
 
 Correlation Matrix Clustering for Statistical Arbitrage Portfolios 
 
